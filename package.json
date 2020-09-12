@@ -5,18 +5,12 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-<<<<<<< HEAD
     "@stripe/react-stripe-js": "^1.1.2",
     "@stripe/stripe-js": "^1.9.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.20.0",
-=======
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
->>>>>>> 5aa5dbbacf8109920f68d38843b5cd971932fc0b
     "firebase": "^7.20.0",
     "firebase-tools": "^8.10.0",
     "react": "^16.13.1",
