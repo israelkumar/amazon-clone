@@ -12,7 +12,7 @@ app.use(cors({origin: true}));
 app.use(express.json);
 
 //API Routes
-app.get('/',(request,response) => res.status(200).send("hello universe"));
+app.get('/',(request,response) => response.status(200).send("hello universe"));
 
 
 //Listen Command
